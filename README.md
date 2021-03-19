@@ -1,2 +1,4 @@
+### Hi there 👋
 
-<h2> Hey there! I'm Saksham.</h2>
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning MERN stack
